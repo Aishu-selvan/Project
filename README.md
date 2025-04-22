@@ -61,8 +61,6 @@ Achieved a **93rd percentile (Top 7%)** out of 1500+ participants.
 
 ---
 
----
-
 ## 📊 Results
 
 - Achieved **93rd percentile (Top 7%)** on Kaggle.
