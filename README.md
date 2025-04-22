@@ -71,12 +71,6 @@ Achieved a **93rd percentile (Top 7%)** out of 1500+ participants.
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## 🙋‍♀️ Author
 
 **Aiswarya T**  
