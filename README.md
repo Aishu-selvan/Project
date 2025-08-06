@@ -1,6 +1,6 @@
 # Project – Aiswarya T
 
-This repository contains machine learning and data analysis projects completed as part of the IIT Madras BS in Data Science and AI program.
+This repository contains machine learning and data analysis projects completed as part of the IIT Madras BS in Data Science and Applications program.
 
 ## 🔍 Projects
 
@@ -9,4 +9,7 @@ A machine learning model to predict malware infections from antivirus telemetry 
 
 ### 2. [Strategic Capital and Inventory Optimization](./inventory-optimization)
 A business data analytics project to optimize inventory and sales performance for a local retail hardware store.
+
+### 3. [Vehicle Parking App](./vehicle-parking-app)
+A full-stack web application developed using Flask, SQLite, Jinja2, and Bootstrap to manage vehicle parking. Includes features for user reservations, admin lot management, and chart-based usage insights. Built as part of the Modern Application Development course.
 
